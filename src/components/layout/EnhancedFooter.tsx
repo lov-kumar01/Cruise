@@ -71,11 +71,11 @@ const EnhancedFooter = () => {
             <ul className="space-y-3">
               <li className="flex items-center">
                 <PhoneCall size={18} className="text-cruise-600 mr-2" />
-                <span className="text-gray-600">+1 (800) 123-4567</span>
+                <span className="text-gray-600">+1 (801) 406-6274</span>
               </li>
               <li className="flex items-center">
                 <Mail size={18} className="text-cruise-600 mr-2" />
-                <span className="text-gray-600">support@oceanvoyage.com</span>
+                <span className="text-gray-600">info@airohub.com.com</span>
               </li>
             </ul>
             <div className="mt-6">
@@ -96,7 +96,7 @@ const EnhancedFooter = () => {
         
         <div className="border-t border-gray-200 pt-6 text-center">
           <p className="text-gray-500 text-sm">
-            © {new Date().getFullYear()} OceanVoyage. All rights reserved.
+            © {new Date().getFullYear()}  POWERED BY AIROHUB      OceanVoyage. All rights reserved.
           </p>
         </div>
       </div>
